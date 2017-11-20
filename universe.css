@@ -34,7 +34,7 @@ html, body{
     z-index: 2;
     height: 100%;
     width: 100%;
-    background: url("http://www.pngmart.com/files/3/Star-PNG-HD.png");
+    background: url("images/stars.gif");
 
     -webkit-animation: stars 4s infinite alternate;
     -moz-animation: stars 4s infinite alternate;
